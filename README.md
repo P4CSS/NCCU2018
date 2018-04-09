@@ -11,7 +11,7 @@
 
 # Q&A
 * Cannot see regular Chinese word in View panel
-```
+```{r}
 Sys.setlocale(category = "LC_ALL", locale = "UTF-8")
 Sys.setlocale(category = "LC_ALL", locale = "C") 
 Sys.setlocale(category = "LC_ALL", locale = "cht") # for win
