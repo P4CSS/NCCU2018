@@ -1,1 +1,9 @@
-# NCCU2018
+# https://github.com/R4CSS/NCCU2018
+
+* You can download course materials from two ways
+  * Fork the NCCU2018 repository
+  * Download whole R Project from the [link](https://www.dropbox.com/sh/ia3p7yg0wpibw4l/AADIOkHe53WzuCHTQzulPhzva?dl=0)
+
+# Before class
+* Be sure to open RStudio by clicking **RWorkshop.Rproj** inside the project folder.
+* After opening the R project, click 0_install_pkg.R to install essential packages.
